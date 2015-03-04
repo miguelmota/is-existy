@@ -1,0 +1,22 @@
+{
+  "name": "is-existy",
+  "main": "is-existy.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miguelmota/is-existy",
+  "authors": [
+    "Miguel Mota <miguelmota2@gmail.com>"
+  ],
+  "description": "Predicate that returns true for \"existy\" values.",
+  "keywords": [
+    "predicate",
+    "existy"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
